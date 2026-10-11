@@ -1,0 +1,12 @@
+[project]
+name = "red-team-agent"
+version = "0.1.0"
+description = "Minimal Azure AI red teaming agent using azure-ai-evaluation"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "azure-ai-evaluation[redteam]>=0.5.0",
+    "azure-identity>=1.25.3",
+    "openai>=1.108.0",
+    "python-dotenv>=1.2.3",
+]
