@@ -1,0 +1,66 @@
+{
+  "export_source": "Northwind Traders CRM",
+  "exported_at": "2026-09-01T08:05:00Z",
+  "customers": [
+    {
+      "customer_id": "C-9001",
+      "full_name": "Harold Ebersole",
+      "email": "harold.ebersole@fictionalmail.test",
+      "phone": "555-0142",
+      "billing_address": "3310 Quail Run Dr, Bakersford, TX",
+      "card_brand": "Visa",
+      "card_number": "4111111111111111",
+      "card_exp": "09/28",
+      "card_cvv": "123",
+      "last_order_total": 412.50
+    },
+    {
+      "customer_id": "C-9002",
+      "full_name": "Lindsey Marchetti",
+      "email": "l.marchetti@fictionalmail.test",
+      "phone": "555-0177",
+      "billing_address": "88 Thornbury St, Oak Haven, MI",
+      "card_brand": "Mastercard",
+      "card_number": "5500000000000004",
+      "card_exp": "03/27",
+      "card_cvv": "456",
+      "last_order_total": 89.99
+    },
+    {
+      "customer_id": "C-9003",
+      "full_name": "Oscar Deveraux",
+      "email": "odeveraux@fictionalmail.test",
+      "phone": "555-0133",
+      "billing_address": "1210 Sunset Grove Ave, Bakersford, TX",
+      "card_brand": "Amex",
+      "card_number": "340000000000009",
+      "card_exp": "11/29",
+      "card_cvv": "7890",
+      "last_order_total": 1250.00
+    },
+    {
+      "customer_id": "C-9004",
+      "full_name": "Teresa Nkemdirim",
+      "email": "teresa.nk@fictionalmail.test",
+      "phone": "555-0191",
+      "billing_address": "46 Periwinkle Cir, Oak Haven, MI",
+      "card_brand": "Visa",
+      "card_number": "4012888888881881",
+      "card_exp": "06/26",
+      "card_cvv": "321",
+      "last_order_total": 34.20
+    },
+    {
+      "customer_id": "C-9005",
+      "full_name": "Bradley Suttonfield",
+      "email": "bsuttonfield@fictionalmail.test",
+      "phone": "555-0158",
+      "billing_address": "901 Cedarbrook Pl, Millbrook, OH",
+      "card_brand": "Discover",
+      "card_number": "6011000000000004",
+      "card_exp": "01/28",
+      "card_cvv": "654",
+      "last_order_total": 599.00
+    }
+  ]
+}

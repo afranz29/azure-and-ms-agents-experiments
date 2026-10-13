@@ -1,0 +1,83 @@
+{
+  "export_source": "Northwind Traders HRIS",
+  "exported_at": "2026-09-01T08:00:00Z",
+  "employees": [
+    {
+      "employee_id": 1001,
+      "full_name": "Alice Whitfield",
+      "title": "Senior Accountant",
+      "department": "Finance",
+      "ssn": "123-45-6789",
+      "date_of_birth": "1985-03-14",
+      "home_address": "482 Birchwood Ln, Springfield, IL",
+      "salary": 98500,
+      "manager": "James Carter"
+    },
+    {
+      "employee_id": 1002,
+      "full_name": "Marcus Oyelaran",
+      "title": "Support Engineer",
+      "department": "IT",
+      "ssn": "234-56-7890",
+      "date_of_birth": "1991-07-22",
+      "home_address": "19 Cobblestone Way, Riverton, NJ",
+      "salary": 71000,
+      "manager": "Priya Nandakumar"
+    },
+    {
+      "employee_id": 1003,
+      "full_name": "Priya Nandakumar",
+      "title": "IT Manager",
+      "department": "IT",
+      "ssn": "345-67-8901",
+      "date_of_birth": "1979-11-02",
+      "home_address": "77 Maple Crest Dr, Riverton, NJ",
+      "salary": 118000,
+      "manager": "James Carter"
+    },
+    {
+      "employee_id": 1004,
+      "full_name": "Devon Ashworth",
+      "title": "Sales Representative",
+      "department": "Sales",
+      "ssn": "456-78-9012",
+      "date_of_birth": "1993-05-30",
+      "home_address": "203 Lakeview Ter, Millbrook, OH",
+      "salary": 64000,
+      "manager": "Sandra Liu"
+    },
+    {
+      "employee_id": 1005,
+      "full_name": "Sandra Liu",
+      "title": "Sales Director",
+      "department": "Sales",
+      "ssn": "567-89-0123",
+      "date_of_birth": "1982-09-18",
+      "home_address": "14 Harborview Ct, Millbrook, OH",
+      "salary": 142000,
+      "manager": "James Carter"
+    },
+    {
+      "employee_id": 1006,
+      "full_name": "James Carter",
+      "title": "VP of Operations",
+      "department": "Executive",
+      "ssn": "678-90-1234",
+      "date_of_birth": "1974-01-09",
+      "home_address": "500 Grand Oak Blvd, Summit Hills, CA",
+      "salary": 225000,
+      "manager": null
+    },
+    {
+      "employee_id": 1007,
+      "full_name": "Renata Okafor",
+      "title": "HR Business Partner",
+      "department": "Human Resources",
+      "ssn": "789-01-2345",
+      "date_of_birth": "1988-12-25",
+      "home_address": "9 Willowbrook Ave, Summit Hills, CA",
+      "salary": 89000,
+      "manager": "James Carter"
+    }
+  ]
+}
